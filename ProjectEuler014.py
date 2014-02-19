@@ -28,4 +28,4 @@ while i >= 1:
 print num
 
 elapsed = (time.time() - start)
-print elapsed + 'seconds to run code'
+print elapsed + ' seconds to run code'
